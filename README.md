@@ -12,7 +12,15 @@
 - 🎧 **Rap** — Porque me gusta.
 
 ---
+## 🔧 Habilidades
 
+- SQL injection
+- File Inclusion (LFI/RFI)
+- Cross-Site Request Forgery (CSRF)
+- Privilege Escalation (Linux)
+- Path Traversal
+- Clickjacking
+--- 
 ### 📫 Contacto
 
 - 🗨️ **Discord**: `enciall01`
