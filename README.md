@@ -1,16 +1,25 @@
-## Hi there 👋
+### 🐍 Hola, soy enciall
 
-<!--
-**enciall01/enciall01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Apasionado por el hacking ético, Linux hasta la muerte, adicto al café y al buen rap.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Cosas que me gustan
+
+- 🦜 **Parrot OS** — Ligero, orientado a ciberseguridad y con todo listo.
+- 🐧 **Linux** — Flexibilidad y control. No existe algo mejor.
+- ☕ **Café** — Fundamental para mantener la mente afilada.
+- 🎧 **Rap** — Porque me gusta.
+
+---
+
+### 🛠️ Herramientas y tecnologías que uso
+
+- 🔍 *Offensive tools*: `nmap`, `burp suite`, `medusa`, `gobuster`, `ffuf`
+- 🧠 *Automatización y scripting*: `bash`, `python`, algo de `go`
+---
+
+### 📫 Contacto
+
+- 🗨️ **Discord**: `enciall01`
+- 🐦 **X**: [@enciall](https://x.com/enciall)
