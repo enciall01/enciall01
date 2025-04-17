@@ -20,6 +20,8 @@
 - Privilege Escalation (Linux)
 - Path Traversal
 - Clickjacking
+- File upload vulnerabilities
+
 --- 
 ### 📫 Contacto
 
