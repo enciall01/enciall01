@@ -22,7 +22,8 @@
 - Clickjacking
 - File upload vulnerabilities
 
---- 
+---
+
 ### 📫 Contacto
 
 - 🗨️ **Discord**: `enciall01`
