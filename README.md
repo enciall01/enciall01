@@ -27,4 +27,7 @@
 ### 📫 Contacto
 
 - 🗨️ **Discord**: `enciall01`
-- 🐦 **X**: [@enciall](https://x.com/enciall)
+
+---
+Redes sociales:
+https://linktr.ee/enciall01
