@@ -1,7 +1,5 @@
 ### 🐍 Hola, soy enciall
 
-🧠 Apasionado por el hacking ético, Linux hasta la muerte, adicto al café y al buen rap.
-
 ---
 ## 🔧 Habilidades
 
