@@ -17,6 +17,3 @@
 
 - 🗨️ **Discord**: `enciall01`
 
----
-Redes sociales:
-https://linktr.ee/enciall01
